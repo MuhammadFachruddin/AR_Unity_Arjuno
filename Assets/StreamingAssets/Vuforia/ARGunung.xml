@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tretes" size="200.000000 140.033508" />
+    <ImageTarget name="purwosari" size="200.000000 140.033508" />
+    <ImageTarget name="lawang" size="200.000000 140.033508" />
+    <ImageTarget name="cangar" size="200.000000 140.033508" />
+    <ImageTarget name="LOGO_GUNUNG" size="100.000000 62.847515" />
+  </Tracking>
+</QCARConfig>

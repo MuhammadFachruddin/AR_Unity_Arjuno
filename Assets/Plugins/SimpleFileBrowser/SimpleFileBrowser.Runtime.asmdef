@@ -1,0 +1,22 @@
+{
+    "name": "SimpleFileBrowser.Runtime",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Android"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.androidjni",
+            "expression": "",
+            "define": ""
+        }
+    ],
+    "noEngineReferences": false
+}
